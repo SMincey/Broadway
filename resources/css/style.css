@@ -21,3 +21,6 @@ h3 {
 p {
   font-size: 14px;
 }
+.Header{
+  background-image: url("resources\media\images\the-flatiron-building.png");
+}
